@@ -1,5 +1,7 @@
 # Weather
 
+## Description
+
 This is a [React App](https://reactjs.org/) project bootstrapped with [`npx create-react-app weather`](https://create-react-app.dev/docs/getting-started/).
 
 ## Technologies
